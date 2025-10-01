@@ -44,6 +44,7 @@
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/m-elmoneim/) _(I pop in sometimes—say hi!)_
+- 📧 mabdelmoneim737@gmail.com
 
 ---
 
