@@ -143,7 +143,7 @@ I specialize in **Backend Architecture**, **Database Optimization**, **Microserv
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedAbdo37&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&ring_color=6C63FF" height="165" alt="Mohamed's GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=MohamedAbdo37&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&ring_color=6C63FF" height="165" alt="Mohamed's GitHub Stats" /> -->
 <img src="https://streak-stats.demolab.com?user=MohamedAbdo37&theme=tokyonight&hide_border=true&background=1a1a2e&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="165" alt="Mohamed's GitHub Streak" />
 
 </div>
