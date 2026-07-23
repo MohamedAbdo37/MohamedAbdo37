@@ -108,19 +108,22 @@ I specialize in **Backend Architecture**, **Database Optimization**, **Microserv
 
 ## Featured Projects
 
-### 🛍️ [FitFinder — AI-Powered Fashion Retrieval (Graduation Project)](https://github.com/FitFinder26/FitFinder)
+### 🛍️ [FitFinder — AI-Powered Fashion Retrieval (Graduation Project)](https://fitfinder26.github.io/FitFinder/)
+> **Website:** [fitfinder26.github.io/FitFinder](https://fitfinder26.github.io/FitFinder/) • **GitHub:** [FitFinder26/FitFinder](https://github.com/FitFinder26/FitFinder)  
 > **Stack:** `Python` • `FastAPI` • `PostgreSQL` • `Docker` • `SAM2` • `OpenCLIP` • `FAISS` • `OpenCV` • `HuggingFace Spaces`
 - Designed and deployed an AI fashion retrieval pipeline utilizing **SAM2** and **OpenCLIP** for precise clothing segmentation and visual similarity matching.
 - Built embedding-based image retrieval over large-scale datasets using **FAISS vector similarity search**.
 - Deployed scalable AI inference microservices containerized with **Docker** and hosted on **HuggingFace Spaces**.
 - Developed automated web scraping pipelines aggregating product datasets across 3 e-commerce platforms.
 
-### 🩺 **DrGrapes — Medical Platform Backend**
+### 🩺 [DrGrapes — Medical Platform Backend](https://dr-grapes.com/)
+> **Website:** [dr-grapes.com](https://dr-grapes.com/)  
 > **Stack:** `Node.js` • `NestJS` • `PostgreSQL` • `Prisma` • `JWT`
 - Architected a multi-service backend covering an e-commerce store, internship/job matching portal, and question banks for medical students.
 - Implemented full e-commerce module (products, orders, categories) with JWT authentication and Role-Based Access Control (**RBAC**) via NestJS guards.
 
-### 📦 **Kalima Educational & Property Management System (MaVoid)**
+### 📦 [Kalima Educational & Property Management System (MaVoid)](https://kalima-edu.com/)
+> **Website:** [kalima-edu.com](https://kalima-edu.com/)  
 > **Stack:** `Node.js` • `PostgreSQL` • `MongoDB` • `Redis` • `Docker` • `Firebase Auth` • `Resend`
 - Refactored monolithic backend into 2 scalable independent microservices, significantly improving maintainability and deployment flexibility.
 - Migrated database architecture from MongoDB to normalized PostgreSQL schemas, reducing complex query execution times to ~0.8s.
@@ -143,7 +146,7 @@ I specialize in **Backend Architecture**, **Database Optimization**, **Microserv
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=MohamedAbdo37&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&ring_color=6C63FF" height="165" alt="Mohamed's GitHub Stats" /> -->
+<img src="https://github-stats-extended.vercel.app/api?username=MohamedAbdo37&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&ring_color=6C63FF" height="165" alt="Mohamed's GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=MohamedAbdo37&theme=tokyonight&hide_border=true&background=1a1a2e&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="165" alt="Mohamed's GitHub Streak" />
 
 </div>
